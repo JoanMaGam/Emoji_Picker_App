@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/JoanMaGam/Emoji_Picker_App/static/css/main.ca472b62.css",
-    "main.js": "/JoanMaGam/Emoji_Picker_App/static/js/main.22d0ecae.js",
-    "static/js/787.568682e0.chunk.js": "/JoanMaGam/Emoji_Picker_App/static/js/787.568682e0.chunk.js",
-    "index.html": "/JoanMaGam/Emoji_Picker_App/index.html",
-    "main.ca472b62.css.map": "/JoanMaGam/Emoji_Picker_App/static/css/main.ca472b62.css.map",
-    "main.22d0ecae.js.map": "/JoanMaGam/Emoji_Picker_App/static/js/main.22d0ecae.js.map",
-    "787.568682e0.chunk.js.map": "/JoanMaGam/Emoji_Picker_App/static/js/787.568682e0.chunk.js.map"
+    "main.css": "/Emoji_Picker_App/static/css/main.ca472b62.css",
+    "main.js": "/Emoji_Picker_App/static/js/main.aaca1800.js",
+    "static/js/787.568682e0.chunk.js": "/Emoji_Picker_App/static/js/787.568682e0.chunk.js",
+    "index.html": "/Emoji_Picker_App/index.html",
+    "main.ca472b62.css.map": "/Emoji_Picker_App/static/css/main.ca472b62.css.map",
+    "main.aaca1800.js.map": "/Emoji_Picker_App/static/js/main.aaca1800.js.map",
+    "787.568682e0.chunk.js.map": "/Emoji_Picker_App/static/js/787.568682e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca472b62.css",
-    "static/js/main.22d0ecae.js"
+    "static/js/main.aaca1800.js"
   ]
 }
